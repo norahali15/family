@@ -151,7 +151,7 @@ class ProfilePage extends StatelessWidget {
                     borderRadius: BorderRadius.circular(16),
                   ),
                   const Image(image: AssetImage("images/you.jpg"),
-                  height: 189,
+                  height: 180,
                     fit: BoxFit.cover,
                   )
                 ],
